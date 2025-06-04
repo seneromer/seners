@@ -654,7 +654,7 @@ class _NewsSwipeScreenState extends State<NewsSwipeScreen>
                                             MainAxisAlignment.spaceBetween,
                                         children: [
                                           Text(
-                                            'Kaydedilen Haberler',
+                                            'Kaydedilen Kartlar',
                                             style: TextStyle(
                                               fontSize: 20,
                                               fontWeight: FontWeight.bold,
