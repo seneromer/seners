@@ -52,7 +52,7 @@ final List<NewsItem> newsData = [
     icon: "📈",
     imageUrl:
         "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&q=80",
-    viewCount: 0,
+    viewCount: 15,
   ),
   NewsItem(
     id: 5,
@@ -78,7 +78,7 @@ final List<NewsItem> newsData = [
     icon: "🌊",
     imageUrl:
         "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&q=80",
-    viewCount: 0,
+    viewCount: 12,
   ),
   NewsItem(
     id: 7,
@@ -104,6 +104,6 @@ final List<NewsItem> newsData = [
     icon: "🧠",
     imageUrl:
         "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?auto=format&fit=crop&q=80",
-    viewCount: 0,
+    viewCount: 8,
   ),
 ];
